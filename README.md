@@ -3,10 +3,10 @@
 I'm a Deep learning enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 ## 📬 Get in Touch
-
-- [GitHub](https://github.com/MohammadUsman0)
-- [LinkedIn](https://www.linkedin.com/in/mohammadusman01/) 
-
+<p align="left">
+<a href="https://github.com/MohammadUsman0"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/MohammadUsman0/MohammadUsman0/blob/main/Assets/github.svg"></a>
+<a href="https://www.linkedin.com/in/mohammadusman01/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://github.com/MohammadUsman0/MohammadUsman0/blob/main/Assets/linkedin.svg"></a>
+</p>
 
 ## ⚡ Domains:
 - Deep learning
